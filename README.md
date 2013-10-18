@@ -12,3 +12,5 @@ A gem to enforce eating at dirt mall
 Drive over to dirt mall. 
 
 Eat.
+
+(optional) Feel gross for the rest of the day.
